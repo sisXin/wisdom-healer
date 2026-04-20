@@ -47,11 +47,16 @@ DOWN    → Eckhart Tolle, Pema Chödrön, Naomi Osaka
 HURT    → Esther Perel, Taylor Swift, Drake
 DOUBT   → Kanye West, Eileen Gu, Billie Eilish
 RISE    → Elon Musk, Oprah Winfrey, Sheryl Sandberg
-DECIDE  → Charlie Munger, Naval, Elon Musk
+DECIDE  → Charlie Munger, Naval, Elon Musk / CZ, 徐明星（加密/创业场景）
 ALONE   → Drake, Billie Eilish, Michelle Obama
 IDENTITY→ Eileen Gu, Doja Cat, Emma Watson
-BURN    → Simone Biles, Eckhart Tolle, Alysa Liu
+BURN    → Simone Biles, Eckhart Tolle, Alysa Liu / 徐明星（工作压垮场景）
+
+加密/创业专属：
+ALL_IN  → CZ 赵长鹏, 孙宇晨, 徐明星 Star
 ```
+
+> 当用户提到加密货币、Web3、创业失败、All in、交易所、区块链等关键词时，优先推荐 CZ / 孙宇晨 / 徐明星。
 
 ### Step 4：输出格式
 
