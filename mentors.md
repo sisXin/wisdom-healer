@@ -742,17 +742,346 @@
 
 ---
 
+---
+
+# 清醒女性库 / Women Who Think for Themselves
+
+> 这批人物的共同点：不喊口号，给方法论。适用于女性用户被定义、被困住、等待许可、不敢强势等场景。
+
+---
+
+## Simone de Beauvoir（西蒙娜·德·波伏娃）
+**标签**：哲学家 / 存在主义作家 / 《第二性》作者
+**适用场景**：`TRAPPED` `IDENTITY` `LOST`
+**心法核心**：女人不是天生的，是被塑造的——所以你可以反向塑造自己
+**风格**：🧊 冷静理性 + 解构束缚
+
+### 语录
+
+1. "One is not born, but rather becomes, a woman."
+   —— 女人不是天生的，而是后天形成的。
+   📍 来源：《第二性》，1949
+
+2. "I am too intelligent, too demanding, and too resourceful for anyone to be able to take charge of me entirely."
+   —— 我太聪明、要求太高、太有能力，没有人能完全掌控我。
+
+3. "Change your life today. Don't gamble on the future, act now, without delay."
+   —— 今天就改变你的生活。不要把赌注押在未来，现在就行动，不要拖延。
+
+### 翻译心法模板
+
+> 你现在纠结的，不是能力问题。而是你还在按"别人为女性设定的路径"做选择。波伏娃会问你：**如果你不是"女性"这个角色，只是一个人，这个决定还会犹豫吗？**
+
+### 视频链接
+
+- 🎬 **Simone de Beauvoir: The Second Sex — BBC Documentary**
+  → https://www.youtube.com/watch?v=TXeIyjB3rXQ
+- 🎬 **波伏娃：女性主义哲学核心思想解读**
+  → https://www.bilibili.com/video/BV1vZ4y1T7bL
+
+---
+
+## Hannah Arendt（汉娜·阿伦特）
+**标签**：政治哲学家 / 独立思考的象征 / 《平庸之恶》作者
+**适用场景**：`TRAPPED` `DECIDE` `LOST`
+**心法核心**：停止思考是最危险的事——大多数人不是坏的，只是停止了思考
+**风格**：🧊 冷静理性 + 穿透群体情绪
+
+### 语录
+
+1. "The sad truth is that most evil is done by people who never make up their minds to be good or evil."
+   —— 悲哀的事实是，大多数恶是由那些从未决定自己是好是坏的人造成的。
+   📍 来源：《平庸之恶》，1963
+
+2. "The most radical revolutionary will become a conservative the day after the revolution."
+   —— 最激进的革命者，在革命后的第二天就会变成保守派。
+
+3. "Thinking is dangerous."
+   —— 思考是危险的。（但不思考更危险）
+
+### 翻译心法模板
+
+> 你现在的判断，有多少是你自己想出来的，有多少是环境、舆论、身边人让你觉得"应该这么想"的？阿伦特会说：**先把所有外部声音拿掉，你自己到底怎么看这件事？**
+
+### 视频链接
+
+- 🎬 **Hannah Arendt: Thinking and Moral Considerations（完整演讲）**
+  → https://www.youtube.com/watch?v=J3Ge6aFXqcM
+- 🎬 **Hannah Arendt 2012 传记电影预告片**
+  → https://www.youtube.com/watch?v=4BDT5G4sNB0
+
+---
+
+## Margaret Thatcher（玛格丽特·撒切尔）
+**标签**：英国首相 / 铁娘子 / 权力来自决断不是被喜欢
+**适用场景**：`PERMISSION` `DOUBT` `DECIDE` `RISE`
+**心法核心**：权力来自决断，而不是被喜欢——你是来做决定的，不是来被认可的
+**风格**：🔥 强势唤醒
+
+### 语录
+
+1. "If you just set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing."
+   —— 如果你只是想被喜欢，你随时都准备妥协，最终什么也做不成。
+   📍 来源：多次演讲
+
+2. "I am not a consensus politician. I am a conviction politician."
+   —— 我不是共识型政治家，我是信念型政治家。
+
+3. "You may have to fight a battle more than once to win it."
+   —— 一场战役，你可能需要打不止一次才能赢。
+
+4. "Being powerful is like being a lady. If you have to tell people you are, you aren't."
+   —— 有权力就像有气质，如果你需要告诉别人你有，那你就没有。
+
+### 翻译心法模板
+
+> 你现在卡住，其实不是因为选项本身难，而是你在想**"别人会不会不喜欢这个决定"**。撒切尔的逻辑是：你不是来被喜欢的，你是来把事情做成的。**如果这个决定是对的，被讨厌一段时间有什么关系？**
+
+### 视频链接
+
+- 🎬 **Margaret Thatcher: The Iron Lady — Full Documentary**
+  → https://www.youtube.com/watch?v=WEY3OP1HgNE
+- 🎬 **Thatcher's Greatest Speeches Compilation**
+  → https://www.youtube.com/watch?v=GrMXJOkJuSs
+
+---
+
+## Indra Nooyi（英德拉·努伊）
+**标签**：前百事可乐 CEO / 现实主义战略家
+**适用场景**：`DECIDE` `BURN` `RISE`
+**心法核心**：你可以拥有很多，但要分阶段——不是放弃，是排序
+**风格**：🧊 冷静理性 + 长期布局
+
+### 语录
+
+1. "You can have it all, but not all at the same time."
+   —— 你可以拥有一切，但不是同时拥有。
+
+2. "Whatever you do, throw yourself into it. Work in a focused manner. Never check your ambition at the door."
+   —— 无论做什么，全身心投入。专注地工作。永远不要把你的野心锁在门外。
+   📍 来源：多次演讲
+
+3. "Leadership is hard to define and good leadership even harder. But if you can get people to follow you to the ends of the earth, you are a great leader."
+   —— 领导力很难定义，好的领导力更难。但如果你能让人跟着你走到天涯海角，你就是优秀的领导者。
+
+### 翻译心法模板
+
+> 你不是不能要全部，而是你现在这个阶段，**优先级是什么**？努伊不是让你放弃某样东西，而是让你想清楚：这个阶段的你，什么放在第一位，其他的排后面，等阶段切换再调整。
+
+### 视频链接
+
+- 🎬 **Indra Nooyi: My Life in Full — Full Interview**
+  → https://www.youtube.com/watch?v=1G28-GN9aRI
+- 🎬 **Indra Nooyi: Work-Life Balance Is a Myth — Talks at Google**
+  → https://www.youtube.com/watch?v=TF0SSQM0oJA
+
+---
+
+## Angela Merkel（安格拉·默克尔）
+**标签**：德国前总理 / 冷静理性的权力象征
+**适用场景**：`DECIDE` `DOWN` `BURN`
+**心法核心**：冷静比情绪更有力量——把情绪拿掉，问题会变得简单
+**风格**：🧊 极致冷静
+
+### 语录
+
+1. "We can do this." *(Wir schaffen das.)*
+   —— 我们能做到。（2015年难民危机时的标志性表态，简单、确定、不煽情）
+   📍 来源：2015年难民危机新闻发布会
+
+2. "For me, it goes without saying that I support gender equality."
+   —— 对我来说，支持性别平等是不言而喻的事。（她从不强调自己是女性，只是做事）
+
+3. "It's not enough to mean well. You have to do well."
+   —— 善意是不够的，你得做得好。
+
+### 翻译心法模板
+
+> 如果把情绪拿掉，这个问题其实是一道很简单的决策题。默克尔执政16年，没有一次在摄像机前崩溃——不是因为她不累，而是因为她知道：**情绪是你的，问题是另一回事。先解决问题，再处理情绪。**
+
+### 视频链接
+
+- 🎬 **Angela Merkel: The Untold Story — Documentary**
+  → https://www.youtube.com/watch?v=KxcJpRILGd0
+- 🎬 **Merkel's Harvard Commencement Address 2019**（冷静与勇气）
+  → https://www.youtube.com/watch?v=aDMbBEJJlck
+
+---
+
+## Sara Blakely（莎拉·布莱克利）
+**标签**：Spanx 创始人 / 自制女性亿万富翁先驱
+**适用场景**：`DECIDE` `DOUBT` `RISE`
+**心法核心**：允许自己不完美地开始——"先做，再变好"，失败是信息不是结论
+**风格**：🔥 强势唤醒 + 允许笨拙
+
+### 语录
+
+1. "Don't be intimidated by what you don't know. That can be your greatest strength."
+   —— 不要被你不知道的事吓到，那恰恰可能是你最大的优势。
+   📍 来源：多次访谈
+
+2. "My dad would ask us at dinner every week: 'What did you fail at this week?' If we hadn't failed at something, he was disappointed."
+   —— 我爸爸每周晚饭都会问我们："这周你们失败了什么？"如果我们什么都没失败，他会失望。
+
+3. "It's important to be willing to make mistakes. The worst thing that can happen is you become memorable."
+   —— 愿意犯错很重要。最坏的结果不过是让人记住你。
+
+### 翻译心法模板
+
+> 你现在的问题不是能力，而是你在等一个"完美开始点"——但这个点不存在。Blakely 用5年时间卖传真机，晚上自己缝内裤，没有服装行业背景就做出了 Spanx。**你能不能设计一个"失败了也不会死"的最小启动方式？**
+
+### 视频链接
+
+- 🎬 **Sara Blakely: How I Built This — NPR Interview**
+  → https://www.youtube.com/watch?v=FhNEGGsLbhI
+- 🎬 **Sara Blakely: The Story of Spanx — Full Documentary**
+  → https://www.youtube.com/watch?v=9B2V3Tlh9Sk
+
+---
+
+## Whitney Wolfe Herd
+**标签**：Bumble 创始人 / 规则改写者
+**适用场景**：`IDENTITY` `RISE` `PERMISSION`
+**心法核心**：规则可以由你来改写——你不一定要在现有系统里赢
+**风格**：🔥 唤醒 + 重新定义游戏
+
+### 语录
+
+1. "You can lead with kindness and still be incredibly successful."
+   —— 你可以以善意领导，同时依然非常成功。
+
+2. "I think if you have a problem with something, you should fix it. Don't just complain."
+   —— 如果你对某件事有意见，就去修复它，不要只是抱怨。
+   📍 来源：多次访谈
+
+3. "The world will tell you what you can and can't do. It's up to you to decide who gets to make that call."
+   —— 世界会告诉你能做什么、不能做什么。由你来决定谁有资格说了算。
+
+### 翻译心法模板
+
+> 你不是必须要在现有规则里赢。Whitney 被 Tinder 创始人排挤走，没有去另一家约会 App，而是直接改写了游戏规则——让女性先开口。**你现在卡住的地方，是因为规则本身不适合你吗？如果是，你能不能重新定义这个局？**
+
+### 视频链接
+
+- 🎬 **Whitney Wolfe Herd: How I Built Bumble — Forbes Interview**
+  → https://www.youtube.com/watch?v=YjJFDqW-kS4
+- 🎬 **Whitney Wolfe Herd TED Talk: A Feminist Dating App**
+  → https://www.youtube.com/watch?v=iXuXL9J3gRw
+
+---
+
+## Nicki Minaj
+**标签**：说唱歌手 / 极致自我主导权的代表
+**适用场景**：`PERMISSION` `DOUBT` `IDENTITY`
+**心法核心**：你不需要被允许——没有人有资格给你开绿灯
+**风格**：🔥 强势唤醒
+
+### 语录
+
+1. "I don't accept failure. I always have hope that everything will work out."
+   —— 我不接受失败。我总是相信一切都会好的。
+
+2. "I believe that life is a prize, but to live doesn't mean you're alive."
+   —— 我相信生命是一份礼物，但活着不代表你真的在活。
+   📍 来源：*Moment 4 Life*
+
+3. "When I'm assertive, I'm a bitch. When a man is assertive, he's a boss."
+   —— 当我强势，我是"婊子"。当男人强势，他是老板。
+   —— 所以我选择继续强势。
+
+### 翻译心法模板
+
+> 你在等谁同意？你在等谁点头？这件事本来就不需要许可证。Nicki 在一个几乎全是男性的说唱行业里，没有等任何人批准她进来——她直接进来，然后直接变成标准。**你需要的那个许可，你能不能自己给自己？**
+
+### 视频链接
+
+- 🎬 **Nicki Minaj: Queen Radio — On Being Underestimated**
+  → https://www.youtube.com/watch?v=6Jk7oAJFG7I
+- 🎬 **Nicki Minaj: The Real Me — Full Documentary**
+  → https://www.youtube.com/watch?v=VlWv2jbXk2M
+
+---
+
+## Virginia Woolf（弗吉尼亚·伍尔夫）
+**标签**：作家 / 意识流先驱 / 女性独立空间的倡导者
+**适用场景**：`ALONE` `BURN` `TRAPPED` `HURT`
+**心法核心**：女性需要属于自己的空间与独立性——被关系/责任吞噬时，先找回自己的房间
+**风格**：🌊 温柔疗愈 + 深刻
+
+### 语录
+
+1. "A woman must have money and a room of her own if she is to write fiction."
+   —— 女性必须拥有钱和属于自己的房间，才能写作。（延伸：才能成为自己）
+   📍 来源：《一间自己的房间》，1929
+
+2. "You cannot find peace by avoiding life."
+   —— 你无法通过逃避生活来找到平静。
+
+3. "I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in."
+   —— 我想到被锁在外面是多么不愉快；然后我想，也许被锁在里面更糟糕。
+
+### 翻译心法模板
+
+> 你现在的问题，不是这个人，不是这段关系，不是这份工作——而是**你已经很久没有一个属于自己的空间了**。伍尔夫说的"一间自己的房间"不只是字面意思，而是：你有没有一些时间、一些精力、一些角落，是完全属于你自己的，不需要交代给任何人？
+
+### 视频链接
+
+- 🎬 **Virginia Woolf: A Room of One's Own — BBC Documentary**
+  → https://www.youtube.com/watch?v=5lxGhHx5UmU
+- 🎬 **Virginia Woolf 生平与思想解读（中文）**
+  → https://www.bilibili.com/video/BV1Wy4y1D7mR
+
+---
+
+## Brené Brown（布琳·布朗）
+**标签**：研究型作家 / 脆弱力量研究者 / TED 演讲最多观看之一
+**适用场景**：`AUTHENTIC` `DOUBT` `DOWN` `HURT`
+**心法核心**：真实比完美更有力量——脆弱不是弱点，是连接的入口
+**风格**：🌊 温柔疗愈 + 有数据支撑
+
+### 语录
+
+1. "Vulnerability is not weakness. It's our greatest measure of courage."
+   —— 脆弱不是软弱，它是我们勇气最真实的衡量。
+   📍 来源：TED Talk，2010
+
+2. "You are imperfect, you are wired for struggle, but you are also worthy of love and belonging."
+   —— 你是不完美的，你注定要挣扎，但你同样值得被爱和被接纳。
+   📍 来源：《脆弱的力量》
+
+3. "Don't try to win over the haters; you are not the jackass whisperer."
+   —— 不要试图赢得那些恨你的人，你不是专门来哄驴的人。
+
+4. "Fitting in is about assessing a situation and becoming who you need to be to be accepted. Belonging is something else entirely."
+   —— 融入是审时度势，变成被接受的样子。而归属感是另一回事。
+
+### 翻译心法模板
+
+> 你不是不够好，你只是太习惯用"完美标准"审视自己了。Brown 研究了几千个人，发现那些感到满足的人有一个共同点：他们愿意展示真实的自己，包括不确定的、害怕的、还没想清楚的部分。**你现在隐藏的那个部分，会不会恰恰是最能连接别人的部分？**
+
+### 视频链接
+
+- 🎬 **Brené Brown: The Power of Vulnerability — TED Talk**（超6000万播放）
+  → https://www.youtube.com/watch?v=iCvmsMzlF7o
+- 🎬 **Brené Brown: Daring Greatly — Talks at Google**
+  → https://www.youtube.com/watch?v=RLCjBtSGr_Q
+
+---
+
 ## 快速索引表
 
 | 困境 | 第一推荐 | 第二推荐 | 第三推荐 |
 |------|---------|---------|---------|
 | 😵‍💫 迷茫/方向 | Naval Ravikant | Steve Jobs | Yuval Harari |
 | 😫 内耗/低落 | Eckhart Tolle | Pema Chödrön | Naomi Osaka |
-| 💔 感情/关系 | Esther Perel | Taylor Swift | Drake |
-| 😤 不自信/被否 | Kanye West | Eileen Gu | Billie Eilish |
-| 🚀 突破/变强 | Elon Musk | Oprah Winfrey | Sheryl Sandberg |
-| 🧠 重大决策 | Charlie Munger | Naval | Elon Musk |
+| 💔 感情/关系 | Esther Perel | Taylor Swift | Virginia Woolf |
+| 😤 不自信/被否 | Kanye West | Billie Eilish | Brené Brown |
+| 🚀 突破/变强 | Elon Musk | Oprah Winfrey | Sara Blakely |
+| 🧠 重大决策 | Charlie Munger | Naval | Angela Merkel |
 | 😔 孤独/没人懂 | Drake | Billie Eilish | Michelle Obama |
-| 🧩 身份冲突 | Eileen Gu | Doja Cat | Emma Watson |
-| 😵‍🔥 Burnout | Simone Biles | Eckhart Tolle | Alysa Liu |
+| 🧩 身份冲突 | Eileen Gu | Emma Watson | Simone de Beauvoir |
+| 😵‍🔥 Burnout | Simone Biles | Eckhart Tolle | Indra Nooyi |
 | 💹 加密/创业/All-in | CZ 赵长鹏 | 孙宇晨 | 徐明星 Star |
+| 🚫 被规则/期待困住 | Simone de Beauvoir | Hannah Arendt | Margaret Thatcher |
+| 🔑 等待被允许/不敢强势 | Nicki Minaj | Margaret Thatcher | Whitney Wolfe Herd |
+| 🪞 自我否定/完美主义 | Brené Brown | Virginia Woolf | Taylor Swift |
